@@ -5,14 +5,26 @@
 //  Created by Kostya on 08.11.2019.
 //  Copyright © 2019 ph4nt0m7. All rights reserved.
 //
+/// @version 0.0.2
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
 #include <string.h>
 #include <time.h>
+#define TYPE_DATA int
 
+/// Шейкерная сортировка
+/// @param arr массив на вход
+void ShakerSort(TYPE_DATA *arr){
+    
+}
 
+/// Интроспективная сортировка
+/// @param arr массив на вход
+void IntroSort(TYPE_DATA *arr){
+    
+}
 
 /** Функция для вывода массива
     @param text_above Текст, который выводиться перед выводом массива
@@ -52,7 +64,6 @@ int main(){
     
     
     _Bool check = 0;
-//    radix_sort(arr,20);
     for(int i=0;i<20;i++){
         if(arr[i]!=arr_check[i])
             check=-1;
