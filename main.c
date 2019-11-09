@@ -5,7 +5,7 @@
 //  Created by Kostya on 08.11.2019.
 //  Copyright © 2019 ph4nt0m7. All rights reserved.
 //
-/// @version 0.0.2
+/// @version 0.0.3
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -16,13 +16,17 @@
 
 /// Шейкерная сортировка
 /// @param arr массив на вход
-void ShakerSort(TYPE_DATA *arr){
+/// @param num кол-во элементов
+/// @author YCTAHOBKA
+void ShakerSort(TYPE_DATA *arr, int num){
     
 }
 
 /// Интроспективная сортировка
 /// @param arr массив на вход
-void IntroSort(TYPE_DATA *arr){
+/// @param num кол-во элементов
+/// @author ph4nt0m7
+void IntroSort(TYPE_DATA *arr, int num){
     
 }
 
