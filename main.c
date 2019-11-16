@@ -5,7 +5,7 @@
 //  Created by Kostya on 08.11.2019.
 //  Copyright © 2019 ph4nt0m7. All rights reserved.
 //
-/// @version 1.0.0
+/// @version 1.0.1
 
 #include <stdio.h>
 #include <stdlib.h>
