@@ -5,7 +5,7 @@
 //  Created by Kostya on 08.11.2019.
 //  Copyright © 2019 ph4nt0m7. All rights reserved.
 //
-/// @version 0.1.0
+/// @version 1.0.0
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -20,7 +20,28 @@
     @author YCTAHOBKA
 */
 void ShakerSort(TYPE_DATA *arr, int num){
-    
+    int left = 0, right = num - 1;
+    int flag = 1;
+    while((left < right) && flag > 0){
+        for(int i = left; i < right; i++){
+            if (arr[i] > arr[i+1]){
+                int t = arr[i+1];
+                arr[i+1] = arr[i];
+                arr[i] = t;
+                flag = 0;
+            }
+        }
+        right--;
+        for(int i = right; i>left; i--){
+            if(arr[i] < arr[i-1]){
+                int t = arr[i-1];
+                arr[i-1] = arr[i];
+                arr[i] = t;
+                flag = 1;
+            }
+        }
+        left++;
+    }
 }
 
 /** Интроспективная сортировка
