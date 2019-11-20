@@ -57,7 +57,14 @@ void _siftdown      (TYPE_DATA *arr, int root, int bottom);
 void _insertionsort (TYPE_DATA *arr, int left, int right);
 
 void IntroSort(TYPE_DATA *arr, int num){
-    TYPE_DATA pivot = ( arr[0] + arr[num-1] + arr[ (num-1) / 2] ) / 3;
+    unsigned long temp_pivot = arr[0] + arr[num-1] + arr[ (num-1)/2];
+    TYPE_DATA pivot = (TYPE_DATA) (temp_pivot / 3);
+    
+    if(pivot < 0){
+        printf("negative pivot: %d",pivot);
+        exit(9);
+    }
+
     _quicksort(arr, 0, num-1, num, pivot, 0);
 }
 /// Native HeapSort
@@ -172,7 +179,7 @@ int main(){
     time_start = clock();
     IntroSort(arr,20);
     time_end = clock();
-    print_arr("Radix sort",arr,20,time_start,time_end);
+    print_arr("sorting",arr,20,time_start,time_end);
 
     
     
