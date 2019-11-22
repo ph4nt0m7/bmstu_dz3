@@ -1,0 +1,135 @@
+--- 1K ---
+ShakerSort	( 1716.852188	ns.)
+ShakerSort	( 1962.184906	ns.)
+ShakerSort	( 1724.958420	ns.)
+ShakerSort	( 1603.126526	ns.)
+--- 2K ---
+ShakerSort	( 6.426096	ms.)
+ShakerSort	( 7.053852	ms.)
+ShakerSort	( 6.926775	ms.)
+ShakerSort	( 6.892204	ms.)
+--- 3K ---
+ShakerSort	( 15.134811	ms.)
+ShakerSort	( 12.290955	ms.)
+ShakerSort	( 12.421846	ms.)
+ShakerSort	( 12.241125	ms.)
+--- 4K ---
+ShakerSort	( 22.974014	ms.)
+ShakerSort	( 23.387909	ms.)
+ShakerSort	( 22.577047	ms.)
+ShakerSort	( 26.654959	ms.)
+--- 5K ---
+ShakerSort	( 37.089825	ms.)
+ShakerSort	( 42.684078	ms.)
+ShakerSort	( 43.695927	ms.)
+ShakerSort	( 43.212891	ms.)
+--- 6K ---
+ShakerSort	( 56.199074	ms.)
+ShakerSort	( 62.934875	ms.)
+ShakerSort	( 70.945024	ms.)
+ShakerSort	( 63.678980	ms.)
+--- 7K ---
+ShakerSort	( 103.030920	ms.)
+ShakerSort	( 97.492933	ms.)
+ShakerSort	( 99.945068	ms.)
+ShakerSort	( 99.347115	ms.)
+--- 8K ---
+ShakerSort	( 134.372950	ms.)
+ShakerSort	( 148.926020	ms.)
+ShakerSort	( 145.171165	ms.)
+ShakerSort	( 155.711174	ms.)
+--- 9K ---
+ShakerSort	( 187.267065	ms.)
+ShakerSort	( 194.880009	ms.)
+ShakerSort	( 175.229073	ms.)
+ShakerSort	( 152.122021	ms.)
+--- 10K ---
+ShakerSort	( 158.092976	ms.)
+ShakerSort	( 172.142982	ms.)
+ShakerSort	( 210.664034	ms.)
+ShakerSort	( 178.183079	ms.)
+--- 20K ---
+ShakerSort	( 1014.446020	ms.)
+ShakerSort	( 857.877016	ms.)
+ShakerSort	( 886.849880	ms.)
+ShakerSort	( 799.011946	ms.)
+--- 30K ---
+ShakerSort	( 1866.713047	ms.)
+ShakerSort	( 2.335354	sec)
+ShakerSort	( 1940.720797	ms.)
+ShakerSort	( 2.405142	sec)
+--- 40K ---
+ShakerSort	( 3.958246	sec)
+ShakerSort	( 4.137224	sec)
+ShakerSort	( 4.657190	sec)
+ShakerSort	( 4.733653	sec)
+--- 50K ---
+ShakerSort	( 6.091257	sec)
+ShakerSort	( 6.893536	sec)
+ShakerSort	( 6.655525	sec)
+ShakerSort	( 7.155876	sec)
+--- 60K ---
+ShakerSort	( 10.224386	sec)
+ShakerSort	( 8.504680	sec)
+ShakerSort	( 8.593664	sec)
+ShakerSort	( 8.397415	sec)
+--- 70K ---
+ShakerSort	( 11.487236	sec)
+ShakerSort	( 14.853705	sec)
+ShakerSort	( 15.841293	sec)
+ShakerSort	( 13.024897	sec)
+--- 80K ---
+ShakerSort	( 18.564952	sec)
+ShakerSort	( 17.126888	sec)
+ShakerSort	( 17.074934	sec)
+ShakerSort	( 17.235128	sec)
+--- 90K ---
+ShakerSort	( 22.548600	sec)
+ShakerSort	( 19.041585	sec)
+ShakerSort	( 21.506657	sec)
+ShakerSort	( 21.854959	sec)
+--- 100K ---
+ShakerSort	( 27.196892	sec)
+ShakerSort	( 27.973485	sec)
+ShakerSort	( 27.780032	sec)
+ShakerSort	( 23.723512	sec)
+--- 200K ---
+ShakerSort	( 113.850312	sec)
+ShakerSort	( 94.647544	sec)
+ShakerSort	( 107.030618	sec)
+ShakerSort	( 104.893125	sec)
+--- 300K ---
+ShakerSort	( 205.237647	sec)
+ShakerSort	( 227.213333	sec)
+ShakerSort	( 206.778431	sec)
+ShakerSort	( 246.078572	sec)
+--- 400K ---
+ShakerSort	( 341.965169	sec)
+ShakerSort	( 375.252980	sec)
+ShakerSort	( 324.378640	sec)
+ShakerSort	( 323.615248	sec)
+--- 500K ---
+ShakerSort	( 575.406094	sec)
+ShakerSort	( 511.067200	sec)
+ShakerSort	( 528.808446	sec)
+ShakerSort	( 623.119804	sec)
+--- 600K ---
+ShakerSort	( 788.244389	sec)
+ShakerSort	( 896.562704	sec)
+ShakerSort	( 780.249759	sec)
+ShakerSort	( 816.832975	sec)
+--- 700K ---
+ShakerSort	( 1371.291524	sec)
+ShakerSort	( 2718.167494	sec)
+ShakerSort	( 1158.901954	sec)
+ShakerSort	( 1016.966871	sec)
+--- 800K ---
+ShakerSort	( 1338.933309	sec)
+ShakerSort	( 1494.615064	sec)
+ShakerSort	( 1232.697438	sec)
+ShakerSort	( 1229.732197	sec)
+--- 900K ---
+ShakerSort	( 1558.623120	sec)
+ShakerSort	( 1392.900620	sec)
+ShakerSort	( 1414.015827	sec)
+ShakerSort	( 1727.780463	sec)

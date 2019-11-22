@@ -1,0 +1,160 @@
+--- 1K ---
+introsort	( 79.154968	ns.)
+introsort	( 51.021576	ns.)
+introsort	( 91.075897	ns.)
+introsort	( 66.995621	ns.)
+--- 2K ---
+introsort	( 182.867050	ns.)
+introsort	( 147.104263	ns.)
+introsort	( 117.063522	ns.)
+introsort	( 141.143799	ns.)
+--- 3K ---
+introsort	( 269.889832	ns.)
+introsort	( 245.809555	ns.)
+introsort	( 191.926956	ns.)
+introsort	( 242.948532	ns.)
+--- 4K ---
+introsort	( 236.988068	ns.)
+introsort	( 340.938568	ns.)
+introsort	( 349.998474	ns.)
+introsort	( 406.026840	ns.)
+--- 5K ---
+introsort	( 314.950943	ns.)
+introsort	( 373.125076	ns.)
+introsort	( 372.886658	ns.)
+introsort	( 349.998474	ns.)
+--- 6K ---
+introsort	( 606.060028	ns.)
+introsort	( 514.030457	ns.)
+introsort	( 515.937805	ns.)
+introsort	( 268.936157	ns.)
+--- 7K ---
+introsort	( 411.033630	ns.)
+introsort	( 738.859177	ns.)
+introsort	( 308.990479	ns.)
+introsort	( 627.994537	ns.)
+--- 8K ---
+introsort	( 420.093536	ns.)
+introsort	( 804.901123	ns.)
+introsort	( 579.833984	ns.)
+introsort	( 499.010086	ns.)
+--- 9K ---
+introsort	( 977.993011	ns.)
+introsort	( 843.048096	ns.)
+introsort	( 885.963440	ns.)
+introsort	( 890.016556	ns.)
+--- 10K ---
+introsort	( 848.054886	ns.)
+introsort	( 1151.800156	ns.)
+introsort	( 907.897949	ns.)
+introsort	( 472.068787	ns.)
+--- 20K ---
+introsort	( 2.444029	ms.)
+introsort	( 975.847244	ns.)
+introsort	( 1503.944397	ns.)
+introsort	( 2.290010	ms.)
+--- 30K ---
+introsort	( 1805.067062	ns.)
+introsort	( 2.374887	ms.)
+introsort	( 2.635956	ms.)
+introsort	( 3.738880	ms.)
+--- 40K ---
+introsort	( 4.570007	ms.)
+introsort	( 4.038095	ms.)
+introsort	( 1992.940903	ns.)
+introsort	( 4.981041	ms.)
+--- 50K ---
+introsort	( 2.808094	ms.)
+introsort	( 5.694151	ms.)
+introsort	( 3.970861	ms.)
+introsort	( 3.767014	ms.)
+--- 60K ---
+introsort	( 3.043175	ms.)
+introsort	( 6.191015	ms.)
+introsort	( 7.505894	ms.)
+introsort	( 5.139112	ms.)
+--- 70K ---
+introsort	( 7.720947	ms.)
+introsort	( 7.462025	ms.)
+introsort	( 3.754854	ms.)
+introsort	( 8.897066	ms.)
+--- 80K ---
+introsort	( 7.232904	ms.)
+introsort	( 9.480953	ms.)
+introsort	( 5.042076	ms.)
+introsort	( 5.798817	ms.)
+--- 90K ---
+introsort	( 6.547213	ms.)
+introsort	( 4.647970	ms.)
+introsort	( 11.091948	ms.)
+introsort	( 4.723787	ms.)
+--- 100K ---
+introsort	( 11.965990	ms.)
+introsort	( 14.223814	ms.)
+introsort	( 5.383968	ms.)
+introsort	( 12.830019	ms.)
+--- 200K ---
+introsort	( 18.015146	ms.)
+introsort	( 14.117002	ms.)
+introsort	( 15.788078	ms.)
+introsort	( 29.769897	ms.)
+--- 300K ---
+introsort	( 32.328844	ms.)
+introsort	( 42.377949	ms.)
+introsort	( 25.722980	ms.)
+introsort	( 27.050018	ms.)
+--- 400K ---
+introsort	( 56.316853	ms.)
+introsort	( 56.308031	ms.)
+introsort	( 25.050163	ms.)
+introsort	( 38.248062	ms.)
+--- 500K ---
+introsort	( 76.861143	ms.)
+introsort	( 53.133011	ms.)
+introsort	( 28.319836	ms.)
+introsort	( 56.241035	ms.)
+--- 600K ---
+introsort	( 96.311092	ms.)
+introsort	( 33.710003	ms.)
+introsort	( 94.231129	ms.)
+introsort	( 83.470106	ms.)
+--- 700K ---
+introsort	( 106.405020	ms.)
+introsort	( 99.771023	ms.)
+introsort	( 106.974840	ms.)
+introsort	( 90.862036	ms.)
+--- 800K ---
+introsort	( 55.430174	ms.)
+introsort	( 44.964075	ms.)
+introsort	( 96.198082	ms.)
+introsort	( 76.508999	ms.)
+--- 900K ---
+introsort	( 67.285061	ms.)
+introsort	( 147.140026	ms.)
+introsort	( 55.939913	ms.)
+introsort	( 133.641005	ms.)
+--- 1M ---
+introsort	( 161.317110	ms.)
+introsort	( 70.319891	ms.)
+introsort	( 73.209047	ms.)
+introsort	( 74.229956	ms.)
+--- 5M ---
+introsort	( 321.146011	ms.)
+introsort	( 369.719982	ms.)
+introsort	( 852.928162	ms.)
+introsort	( 949.810028	ms.)
+--- 10M ---
+introsort	( 1935.891151	ms.)
+introsort	( 1067.054033	ms.)
+introsort	( 2.414584	sec)
+introsort	( 1388.027906	ms.)
+--- 50M ---
+introsort	( 17.856555	sec)
+introsort	( 14.848832	sec)
+introsort	( 7.211479	sec)
+introsort	( 18.811113	sec)
+--- 100M ---
+introsort	( 25.755646	sec)
+introsort	( 27.584726	sec)
+introsort	( 17.909458	sec)
+introsort	( 25.578880	sec)
