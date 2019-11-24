@@ -3,7 +3,7 @@
 Defines
 ---
 ``` C
-    #define TYPE_DATA int //какой тип данных в массиве
+#define TYPE_DATA int //какой тип данных в массиве
 ```
 
 Шейкерная сортировка
