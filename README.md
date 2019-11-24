@@ -31,3 +31,6 @@ void _swap          (TYPE_DATA *arr, int i, int j);
 void _siftdown      (TYPE_DATA *arr, int root, int bottom);
 void _insertionsort (TYPE_DATA *arr, int left, int right);
 ```
+main()
+---
+Содержит проверку на 20 значений, если проходит проверку - то возвращает 0, если нет - 1
