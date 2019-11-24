@@ -1,4 +1,4 @@
-# ДЗ2 по ФЛиТЕ [![Build Status](https://travis-ci.org/ph4nt0m7/bmstu_dz.svg)](https://travis-ci.org/ph4nt0m7/bmstu_dz)
+# ДЗ5 по ФЛиТЕ [![Build Status](https://travis-ci.org/ph4nt0m7/bmstu_dz.svg)](https://travis-ci.org/ph4nt0m7/bmstu_dz)
 ### Шейкерная и Интроспективная сортировка на Си
 
 Defines
