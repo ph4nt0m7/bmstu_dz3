@@ -1,4 +1,4 @@
-# bmstu_dz3 - Шейкерная и Интроспективная сортировка на Си [![Build Status](https://travis-ci.org/ph4nt0m7/bmstu_dz.svg)](https://travis-ci.org/ph4nt0m7/bmstu_dz)
+# Шейкерная и Интроспективная сортировка на Си [![Build Status](https://travis-ci.org/ph4nt0m7/bmstu_dz.svg)](https://travis-ci.org/ph4nt0m7/bmstu_dz)
 
 Defines
 ---
